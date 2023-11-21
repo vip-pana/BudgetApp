@@ -1,2 +1,5 @@
 # BudgetApp
-Budget App è come io reputo che sia utile un applicazione di budgeting, deve essere automatizzata, sicura e semplice da usare
+Budget App is how I found a budgeting application to be useful, it needs to be automated, secure and simple to use
+
+#### To do for the future
+[] Add a GitIgnore file for .NET
